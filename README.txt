@@ -7,3 +7,5 @@ Author URI: https://untree.co/
 Twitter: https://twitter.com/Untree_co
 Facebook: https://web.facebook.com/Untree.co/
 Pinterest: https://pinterest.com/Untree_co/
+
+Note: We will make changes in the dev.env branch prior to merging with main.
